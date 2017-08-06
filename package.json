@@ -1,0 +1,22 @@
+{
+  "name": "day01",
+  "version": "1.0.0",
+  "description": " first day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xufeng1994/hello-world.git"
+  },
+  "author": "Map Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xufeng1994/hello-world/issues"
+  },
+  "homepage": "https://github.com/xufeng1994/hello-world#readme",
+  "keywords": [
+    "one"
+  ]
+}
