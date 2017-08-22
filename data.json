@@ -1,0 +1,7 @@
+{
+    "factory":[
+        {"worker": "Mike"},
+        {"worker": "Jack"},
+        {"worker": "Alice"}
+    ]
+}
