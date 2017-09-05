@@ -1,0 +1,19 @@
+{
+  "name": "next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },  
+  "dependencies": {
+    "chromedriver": "^2.32.0",
+    "mochawesome": "^2.3.0",
+    "selenium-webdriver": "^3.5.0"
+  }
+}
